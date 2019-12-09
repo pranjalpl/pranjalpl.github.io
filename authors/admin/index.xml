@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pranjal Pratik Lal</title>
-    <link>https://pranjalpl.github.io/</link>
-      <atom:link href="https://pranjalpl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pranjalpl.github.io/authors/admin/</link>
+      <atom:link href="https://pranjalpl.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Pranjal Pratik Lal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://pranjalpl.github.io/img/icon-192.png</url>
       <title>Pranjal Pratik Lal</title>
-      <link>https://pranjalpl.github.io/</link>
+      <link>https://pranjalpl.github.io/authors/admin/</link>
     </image>
     
   </channel>
